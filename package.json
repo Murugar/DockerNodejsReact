@@ -1,8 +1,8 @@
 {
-  "name": "docker_nodejs_react",
+  "name": "DockerReactNodeJS",
   "version": "1.0.0",
   "description": "Node.js on Docker",
-  "author": "Nikolay Korban",
+  "author": "Test",
   "main": "server.js",
   "scripts": {
     "start": "node server.js"
